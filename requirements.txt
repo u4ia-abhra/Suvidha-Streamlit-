@@ -2,6 +2,5 @@ streamlit
 faiss-cpu
 numpy
 sentence-transformers
-pickle
 google-generativeai
 python-dotenv
