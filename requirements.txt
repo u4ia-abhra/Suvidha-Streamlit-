@@ -4,3 +4,4 @@ numpy
 sentence-transformers
 google-generativeai
 python-dotenv
+torch==2.0.1
