@@ -65,9 +65,9 @@ def create_faiss_index(docs, domain):
         pickle.dump(docs, f)
 
 # Create and save indexes
-create_faiss_index(ecommerce_docs, "e-commerce")
-create_faiss_index(medical_docs, "medical")
-create_faiss_index(banking_docs, "banking")
+create_faiss_index(ecommerce_docs, "E-commerce")
+create_faiss_index(medical_docs, "Medical")
+create_faiss_index(banking_docs, "Banking")
 
 print("Knowledge bases for Ecommerce, Medical, and Banking stored separately in FAISS successfully!")
 
