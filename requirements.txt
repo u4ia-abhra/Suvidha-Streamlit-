@@ -1,7 +1,7 @@
 streamlit
 faiss-cpu
-numpy
+numpy==1.24.4
 sentence-transformers
 google-generativeai
 python-dotenv
-torch==2.0.1
+torch==2.2.0
